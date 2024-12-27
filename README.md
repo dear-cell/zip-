@@ -15,3 +15,7 @@ zip.exe C:\Users\wy\Desktop\1.txt //这是把C:\Users\wy\Desktop\1.txt文件压�
 zip.exe ./ 123.zip   //这个是吧当前目录压缩成123.zip
 zip.exe C:\Users\wy\Desktop 123.zip //这个是吧当前目录压缩成123.zip
 zip.exe C:\Users\wy\Desktop\1.txt 123.zip //这是把C:\Users\wy\Desktop\1.txt文件压缩成123.zip
+
+
+![image](https://github.com/user-attachments/assets/8c9f98b6-3477-4c4e-8e53-04d373ff27ac)
+
